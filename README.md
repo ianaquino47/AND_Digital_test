@@ -34,7 +34,7 @@ $ npm install
 ![Recordit GIF](http://g.recordit.co/OopUmn3JRJ.gif)
 ------
 
-## Tests (Optional)
+## Tests
 
 - I used Mocha as the testing suite.
 > Run the tests on terminal using the following code:
@@ -44,3 +44,10 @@ $ npm test
 ```
 
 ![Recordit GIF](http://g.recordit.co/FmV16QwhqQ.gif)
+
+## Examples
+
+- Below are essentially examples that I have incorporated in my tests.
+- The texts in blue are the outputs of the function. (I am using an extension on my IDE that is why they are showing up inline.)
+
+![Recordit GIF](http://g.recordit.co/rDTy8UPm9R.gif)

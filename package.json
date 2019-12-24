@@ -1,7 +1,7 @@
 {
   "name": "and-digital-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "AND Digital Tech Test",
   "main": "SolutionAND.js",
   "directories": {
     "test": "test"
